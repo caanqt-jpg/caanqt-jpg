@@ -179,7 +179,18 @@
 
 <br clear="both">
 <p align="center">
-  <img src=".github/assets/snake.svg" alt="Snake Animation" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/main/dist/github-contribution-grid-snake.svg">
+  <img alt="github snake navigation" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/main/dist/github-contribution-grid-snake.svg">
+</picture>
+</p>
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/output/pacman-contribution-graph.svg">
+</picture>
 </p>
 ###
 
