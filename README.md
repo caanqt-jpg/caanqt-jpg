@@ -13,7 +13,6 @@
   </p>
 </div>
 
-###
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -63,12 +62,11 @@
 <img src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/snake-output/snake.svg" alt="Snake animation" />
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
 ###
 
 <picture data-importer="pacman">
@@ -123,3 +121,8 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/snake-output/snake.svg" alt="Snake animation" />
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt/output/pacman-contribution-graph.svg">
+</picture>

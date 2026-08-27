@@ -16,4 +16,4 @@ const results = await generateSnakeAnimation(
 );
 
 fs.writeFileSync("snake.svg", results[0]);
-console.log("✨ snake.svg berhasil dibuat tanpa token!");
+console.log("✨ snake.svg");
