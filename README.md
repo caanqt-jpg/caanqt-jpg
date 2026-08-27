@@ -40,23 +40,27 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/snake/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/snake/github-contribution-grid-snake.svg">
-    <img alt="github snake navigation" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/snake/github-contribution-grid-snake.svg">
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.
+  githubusercontent.com/caanqt-jpg/caanqt-jpg/snake/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/snake/github-contribution-grid-snake.svg">
+  <img alt="github snake navigation" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/snake/github-contribution-grid-snake.svg">
+</picture>
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/output/pacman-contribution-graph.svg">
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/output/pacman-contribution-graph.svg">
+</picture>
 </p>
 
+
 <div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/31ijpev5ro2m2gpxxeyna2q55hjq">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ijpev5ro2m2gpxxeyna2q55hjq" alt="Spotify recently played" width="400" />
-  </a>
+
+<a href="https://open.spotify.com/user/31ijpev5ro2m2gpxxeyna2q55hjq">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ijpev5ro2m2gpxxeyna2q55hjq" alt="Spotify recently played" width="400" />
+</a>
+
 </div>
 
 ###
