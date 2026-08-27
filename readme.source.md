@@ -1,4 +1,3 @@
-
 <h4 data-importer="text" align="center">My name is Chandra Mahendra. I'm from Lamongan, and I'm a beginner.</h4>
 
 ```aura width=860 height=200 link="https://collectioneur.github.io/readme-aura/"
@@ -132,8 +131,6 @@
 </div>
 ```
 
-###
-
 <div data-importer="stats" align="center">
   <p>
     <img src="https://ghstats.dev/api/card?username=caanqt-jpg&theme=dracula&custom_title=Stats" alt="GitHub Stats Card" />
@@ -142,9 +139,6 @@
     <img src="https://streak-stats.demolab.com?user=caanqt-jpg&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   </p>
 </div>
-
-###
-
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -164,8 +158,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
-
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -175,76 +167,25 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
-<br clear="both">
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/snake/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/snake/github-contribution-grid-snake.svg">
-  <img alt="github snake navigation" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/snake/github-contribution-grid-snake.svg">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/snake/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/snake/github-contribution-grid-snake.svg">
+    <img alt="github snake navigation" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/snake/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/output/pacman-contribution-graph.svg">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
-###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-<img src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/snake-output/snake.svg" alt="Snake animation" />
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/31ijpev5ro2m2gpxxeyna2q55hjq">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ijpev5ro2m2gpxxeyna2q55hjq" alt="Spotify recently played" width="400" />
+  </a>
 </div>
 
 ###
@@ -252,20 +193,4 @@
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=caanqt-jpg.caanqt-jpg&"  />
 </div>
-
-###
-
-<div data-importer="music" align="center">
-
-<a href="https://open.spotify.com/user/31ijpev5ro2m2gpxxeyna2q55hjq">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ijpev5ro2m2gpxxeyna2q55hjq" alt="Spotify recently played" width="400" />
-</a>
-
-</div>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/caanqt-jpg/caanqt-jpg/snake-output/snake.svg" alt="Snake animation" />
-
-###
 
